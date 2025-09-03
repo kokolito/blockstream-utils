@@ -1,0 +1,19 @@
+{
+  "name": "blockstream-utils",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kokolito/blockstream-utils.git"
+  },
+  "description": "A collection of utility functions for interacting with Blockstream's services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "blockstream",
+    "utility"
+  ],
+  "author": "Kolia Cadonici",
+  "license": "ISC"
+}

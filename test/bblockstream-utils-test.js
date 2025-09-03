@@ -1,6 +1,6 @@
 #!/bin/node
 
-const blockstreamUtil = require("../blockstream-utils.js");
+const blockstreamUtil = require("../index.js");
 const assert = require("assert");
 
 // getRawTransaction
